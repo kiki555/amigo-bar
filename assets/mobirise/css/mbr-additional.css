@@ -1,5 +1,5 @@
-@import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,400i,700,700i);
-@import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i);
+@import url(https://fonts.googleapis.com/css?family=Kaushan+Script:400);
+@import url(https://fonts.googleapis.com/css?family=Syncopate:400,700);
 @import url(https://fonts.googleapis.com/css?family=Righteous:400);
 @import url(https://fonts.googleapis.com/css?family=Archivo+Black:400);
 
@@ -23,14 +23,14 @@ body {
   line-height: 1.6;
 }
 .display-1 {
-  font-family: 'Droid Serif', serif;
+  font-family: 'Kaushan Script', handwriting;
   font-size: 7.5rem;
 }
 .display-1 > .mbr-iconfont {
   font-size: 12rem;
 }
 .display-2 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Kaushan Script', handwriting;
   font-size: 3rem;
 }
 .display-2 > .mbr-iconfont {
@@ -44,11 +44,11 @@ body {
   font-size: 0.96rem;
 }
 .display-5 {
-  font-family: 'Righteous', display;
-  font-size: 1rem;
+  font-family: 'Syncopate', sans-serif;
+  font-size: 0.8rem;
 }
 .display-5 > .mbr-iconfont {
-  font-size: 1.6rem;
+  font-size: 1.28rem;
 }
 .display-7 {
   font-family: 'Righteous', display;
@@ -79,9 +79,9 @@ body {
     line-height: calc( 1.4 * (0.86rem + (0.6 - 0.86) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
-    font-size: 0.8rem;
-    font-size: calc( 1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 0.64rem;
+    font-size: calc( 0.93rem + (0.8 - 0.93) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (0.93rem + (0.8 - 0.93) * ((100vw - 20rem) / (48 - 20))));
   }
 }
 /* Buttons */
@@ -1341,8 +1341,6 @@ body {
   min-height: 100vh;
 }
 .cid-qCXgNVq7dE {
-  padding-top: 90px;
-  padding-bottom: 90px;
   background-image: url("../../../assets/images/untitled-truecolor-1-330x350.jpg");
 }
 .cid-qCXgNVq7dE .mbr-figure {
@@ -1351,6 +1349,9 @@ body {
 .cid-qCXgNVq7dE H1 {
   color: #cc2952;
   text-align: center;
+}
+.cid-qCXgNVq7dE H3 {
+  color: #070e4c;
 }
 .cid-qCpLGWDtdx {
   padding-top: 90px;
