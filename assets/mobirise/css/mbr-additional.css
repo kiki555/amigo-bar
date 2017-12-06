@@ -2120,3 +2120,15 @@ body {
 .cid-qCXp1Pl3pK B {
   color: #7f1933;
 }
+.cid-qD2qEQaQQT {
+  background: #ffffff;
+}
+.cid-qD2qEQaQQT .video-block {
+  margin: auto;
+  width: 100% !important;
+}
+@media (max-width: 768px) {
+  .cid-qD2qEQaQQT .video-block {
+    width: 100% !important;
+  }
+}
