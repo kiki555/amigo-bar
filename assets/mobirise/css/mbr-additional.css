@@ -1340,19 +1340,6 @@ body {
   height: auto;
   min-height: 100vh;
 }
-.cid-qD2qEQaQQT {
-  padding-top: 0px;
-  padding-bottom: 120px;
-  background: #080101;
-}
-.cid-qD2qEQaQQT .video-block {
-  margin: auto;
-}
-@media (max-width: 768px) {
-  .cid-qD2qEQaQQT .video-block {
-    width: 100% !important;
-  }
-}
 .cid-qCXgNVq7dE {
   background-image: url("../../../assets/images/untitled-truecolor-1-330x350.jpg");
 }
@@ -1365,6 +1352,19 @@ body {
 }
 .cid-qCXgNVq7dE H3 {
   color: #070e4c;
+}
+.cid-qD2qEQaQQT {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background: #080101;
+}
+.cid-qD2qEQaQQT .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-qD2qEQaQQT .video-block {
+    width: 100% !important;
+  }
 }
 .cid-qCpLGWDtdx {
   padding-top: 90px;
