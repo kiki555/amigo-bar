@@ -1341,11 +1341,12 @@ body {
   min-height: 100vh;
 }
 .cid-qD2qEQaQQT {
-  background: #ffffff;
+  padding-top: 0px;
+  padding-bottom: 120px;
+  background: #080101;
 }
 .cid-qD2qEQaQQT .video-block {
   margin: auto;
-  width: 100% !important;
 }
 @media (max-width: 768px) {
   .cid-qD2qEQaQQT .video-block {
